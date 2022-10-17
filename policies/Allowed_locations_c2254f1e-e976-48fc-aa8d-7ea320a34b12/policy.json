@@ -3,7 +3,7 @@
   "displayName": "Allowed locations",
   "policyType": "Custom",
   "mode": "Indexed",
-  "description": "This policy enables you to restrict the locations your organization can specify when deploying resources. Use to enforce your geo-compliance requirements. Excludes resource groups, Microsoft.AzureActiveDirectory/b2cDirectories, and resources that use the 'global' region.",
+  "description": "Vipul policy changes This policy enables you to restrict the locations your organization can specify when deploying resources. Use to enforce your geo-compliance requirements. Excludes resource groups, Microsoft.AzureActiveDirectory/b2cDirectories, and resources that use the 'global' region.",
   "metadata": {
    "category": "General",
    "createdBy": "3c467673-913a-4410-aa2b-d100d5c65ac1",

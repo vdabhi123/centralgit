@@ -12,7 +12,8 @@
    "listOfAllowedLocations": {
     "value": [
      "eastus",
-     "centralus"
+     "centralus",
+     "southcentralus"
     ]
    }
   },
